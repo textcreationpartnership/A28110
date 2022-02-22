@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca Anglicana: or, A collection of choice English books all in folio, curiously bound, gilt, and lettered on the back, consisting of various subjects, but chiefly history; will be exposed to sale, by way of auction, on Wednesday next, being the fifth of May, 1686. at Jonathan's Coffee-house in Exchange-alley, in Cornhil, London. Where catalogues are to be distributed gratis; and at Christopher Hussey's shop, at the Flower-de-luce in Little-Britain. The auction will begin by nine in the morning, and two in the afternoon precisely.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28110</idno>
+            <idno type="STC">Wing B2819</idno>
+            <idno type="STC">ESTC R213061</idno>
+            <idno type="EEBO-CITATION">99825575</idno>
+            <idno type="PROQUEST">99825575</idno>
+            <idno type="VID">29961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1790:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca Anglicana: or, A collection of choice English books all in folio, curiously bound, gilt, and lettered on the back, consisting of various subjects, but chiefly history; will be exposed to sale, by way of auction, on Wednesday next, being the fifth of May, 1686. at Jonathan's Coffee-house in Exchange-alley, in Cornhil, London. Where catalogues are to be distributed gratis; and at Christopher Hussey's shop, at the Flower-de-luce in Little-Britain. The auction will begin by nine in the morning, and two in the afternoon precisely.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and imprint date from Wing.</note>
+                  <note>Signatures: [A]² .</note>
+                  <note>Includes imprint date of listed volumes. In MS. in margins are prices received.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  London --  Early works to 1800.</term>
+               <term>Catalogs, Booksellers' --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29961:1" rendition="simple:additions"/>
+            <p>Bibliotheca Anglicana: OR, A COLLECTION OF CHOICE Engliſh BOOKS, All in <hi>FOLIO,</hi> Curiouſly Bound, Gilt, and Lettered on the Back, Conſiſting of various Subjects, but chiefly <hi>HISTORY;</hi>
+            </p>
+            <p>Will be Expoſed to Sale, by way of Auction, on <hi>Wedneſday</hi> next, being the fifth of <hi>May,</hi> 1686. at <hi>Jonathan</hi>'s Coffee-houſe in <hi>Exchange-alley,</hi> in <hi>Cornhil, London.</hi>
+            </p>
+            <p>Where Catalogues are to be diſtributed <hi>gratis;</hi> and at <hi>Chriſtopher Huſſey</hi>'s Shop, at the <hi>Flower-de-luce</hi> in <hi>Little-Britain.</hi>
+            </p>
+            <p>The Auction will begin by Nine in the Morning, and Two in the Afternoon preciſely.</p>
+            <list>
+               <head>Conditions of Sale.</head>
+               <item>I. <hi>That he who bids moſt is the Buyer; but if any difference ariſe, which the company cannot decide, then the Book or Books ſhall be forthwith expoſed to Sale again.</hi>
+               </item>
+               <item>II. <hi>That all the Books in this Catalogue (for ought we know) are Perfect; but if any of them appear to be otherwiſe, before they be taken away, the Buyer ſhall have his choice of taking, or leaving them.</hi>
+               </item>
+               <item>III. <hi>That the Money for the Book or Books ſo bought, is to be paid by the Buyer within three days after the Auction is ended, at the place where they are ſold; where, upon payment thereof, the Book or Books ſhall be delivered.</hi>
+               </item>
+               <item>IV. <hi>That all Gentlemen Buyers be pleaſed to give in their Names, and place of abode, to the end that every perſon may have Juſtice done him in the Buying, and alſo in the delivery of the Books.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>The Books will be expoſed to view two days before the Sale, from Nine in the Morning to Twelve, and from Two to Six in the Afternoon.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="auction_catalogue">
+            <pb facs="tcp:29961:2" rendition="simple:additions"/>
+            <list>
+               <item>1 A <hi>Inſworth</hi> on the <hi>Pentateuch</hi> Pſalms, and <hi>Canticles</hi> — 1639</item>
+               <item>2 <hi>Adams</hi> Expoſition on <hi>Peter,</hi> compleat 1633</item>
+               <item>3 Biſhop <hi>Andrews</hi> on the Commandments — 1675</item>
+               <item>4 Aſſembly of Divines Annotations on the Bible, 2 Volumes 1657</item>
+               <item>5 <hi>Ambroſes</hi> Works, compleat — 1674</item>
+               <item>6 <hi>Atterſoles</hi> Commentary on <hi>Numbers</hi> 1618</item>
+               <item>7 <hi>Alleſtrys</hi> Sermons — 1669</item>
+               <item>8 <hi>Baxters</hi> Chriſtian Directory 1678</item>
+               <item>9 <hi>Blomes Britanniae,</hi> large Paper, and the Maps coloured — 1673</item>
+               <item>10 <hi>Burgeſſes</hi> Spiritual Refinings 1658</item>
+               <item>11 Book of Martyrs in 3 Volumes — 1641</item>
+               <item>12 Biſhop <hi>Bramhalls</hi> Works 1676</item>
+               <item>13 <hi>Boccalins</hi> Advertiſement from <hi>Parnaſſus</hi> — 1674</item>
+               <item>14 Lord <hi>Bacons Reſuſcitatio</hi> 1671</item>
+               <item>15 Advancement of Learning — 1674</item>
+               <item>16 <hi>Broughtons</hi> Works 1662</item>
+               <item>17 <hi>Boccaſes</hi> Tales — 1625</item>
+               <item>18 <hi>Burgeſſes</hi> Commentary on the <hi>Corinthians</hi> 1659</item>
+               <item>19 <hi>Beards</hi> Theatre of Gods Judgments — 1648</item>
+               <item>20 <hi>Caryls</hi> Expoſition on the Book of <hi>Job,</hi> 2 Volumes, Imperial Paper 1676</item>
+               <item>21 <hi>Cotgraves</hi> French and Engliſh Dictionary, ſet out by <hi>J. Howell</hi> — 1673</item>
+               <item>22 <hi>Charnocks</hi> diſcourſe on the Attributes 1682</item>
+               <item>23 <hi>Clarks</hi> Looking-glaſs for Saints and Sinners, 2 Volumes — 1671</item>
+               <item>24 <hi>Chillingworths</hi> Religion of the Proteſtans 1674</item>
+               <item>25 <hi>Clarks</hi> General Martyrology — 1677</item>
+               <item>26 Collection of diſcourſes of the Virtuoſi of <hi>France,</hi> upon all parts of Philoſophy, 2 Vol. 1664</item>
+               <item>27 <hi>Chauces</hi> Works, beſt Edition, with his Life 1598</item>
+               <item>28 <hi>Cudworths</hi> Intellectual Syſteme of the Univerſe — 1678</item>
+               <item>29 <hi>Cudworth</hi> on the Sacrament of the Lords Supper 1676</item>
+               <item>30 <hi>Carys</hi> Chronology of Antient time — 1677</item>
+               <item>31 <hi>Clarks</hi> Sermons 1637</item>
+               <item>32 <hi>Cradocks</hi> Harmony, on the four Evangeliſts — 1668</item>
+               <item>33 <hi>Crooks</hi> Divine Characters 1658</item>
+               <item>34 <hi>Cowleys</hi> Works of Poetry, in two Volumes, Compleat — 1681</item>
+               <item>35 <hi>Diodatis</hi> Annotations on the whole Bible 1664</item>
+               <item>36 <hi>Dixons</hi> Nature of the two Teſtaments — 1676</item>
+               <item>37 <hi>Field</hi> of the Church 1628</item>
+               <item>38 <hi>Faringdons</hi> Sermons, 2 Volumes, Compleat — 1672</item>
+               <item>39 <hi>French</hi> Academy 1618</item>
+               <item>40 <hi>Flathams</hi> Reſolves — 1677</item>
+               <item>41 <hi>Goodwin (Tho.)</hi> his Expoſition on the <hi>Epheſians</hi> 1681</item>
+               <item>42 <hi>Gells</hi> Eſſay towards the Amendment of the <hi>Engliſh</hi> Tranſlation of the Bible 1659</item>
+               <item>43 <hi>Gurnalls</hi> Chriſtian in Compleat Armour 1679</item>
+               <item>44 <hi>Goodwin (John)</hi> Redemption redeemed — 1651</item>
+               <item>45 <hi>Gatakers</hi> Sermons 1637</item>
+               <item>46 <hi>Gouge (Will.)</hi> Comment on the <hi>Hebrews,</hi> Compleat — 1655</item>
+               <item>47 <hi>Gouge (Will.)</hi> Domeſtical Duties, and ſeveral other pieces 1627</item>
+               <item>48 <hi>Granthams</hi> Antient Chriſtian Religion — 1678</item>
+               <item>49 Hiſtory of Great <hi>Britain,</hi> Imperial Paper; by <hi>John Speed</hi> — 1611</item>
+               <item>50 Maps of the Empire of Great <hi>Britain,</hi> and <hi>Ireland;</hi> Imperial Paper 1611</item>
+               <item>51 Maps of the World, by <hi>Plinius Secundus</hi> 1635</item>
+               <item>52 Maps of the <hi>Jews,</hi> by <hi>Joſephus,</hi> beſt Edition — 1676</item>
+               <item>53 Maps of the Worthies of <hi>England,</hi> by <hi>Tho. Fuller</hi> 1662</item>
+               <item>54 Maps of King <hi>Henry</hi> the Eighth, by <hi>Herbert,</hi> Imperial Paper — 1672</item>
+               <item>55 Maps of the Life of King <hi>Charles</hi> the Firſt, by <hi>Sanderſon</hi> 1658</item>
+               <pb facs="tcp:29961:3" rendition="simple:additions"/>
+               <item>56 Maps of the Holy War, and State, by <hi>Tho. Fuller</hi> — 1647</item>
+               <item>57 Maps of Queen <hi>Elizabeth,</hi> by <hi>Will. Camden</hi> 1675</item>
+               <item>58 Maps of <hi>England,</hi> by <hi>Daniel</hi> and <hi>Truſſel</hi> — 1650</item>
+               <item>59 Maps of the Churches of <hi>Piedmont,</hi> by Sir <hi>Samuel Morland</hi> 1658</item>
+               <item>60 Maps of the Church of Great <hi>Britain,</hi> by <hi>Tho. Fuller</hi> — 1655</item>
+               <item>61 Maps of the World, by <hi>Peter Heylin</hi> 1677</item>
+               <item>62 Maps of Excellent Perſonages, who ſuffered for their Soveraign K. <hi>Charles</hi> I. by <hi>D. Loyd</hi> 1668</item>
+               <item>63 Maps of the Antiquities of Antient <hi>Britain,</hi> by <hi>Samms</hi> 1676</item>
+               <item>64 Maps of the Civil Wars of <hi>France,</hi> by <hi>Davila</hi> — 1678</item>
+               <item>65 Maps of the Council of <hi>Trent,</hi> with the Life of the Author, and <hi>Spaniſh</hi> Inquiſition 1676</item>
+               <item>66 Maps of Church, by <hi>Euſebius,</hi> with the Life of <hi>Conſtantine</hi>
+               </item>
+               <item>67 Maps of the Reformation, in two Volumes, by <hi>G. Burnet</hi> 1681</item>
+               <item>68 Maps of the Lives of Chriſt, his Apoſtles, and Antient Fathers, by <hi>S. Clark</hi> 1675</item>
+               <item>69 Maps of the Lives of the Noble <hi>Grecian</hi> and <hi>Roman</hi> Philoſophers, by <hi>Plutarch</hi> 1676</item>
+               <item>70 Maps of the Reformation of the Church of <hi>Scotland</hi> by <hi>J. Knox</hi> — 1644</item>
+               <item>71 Maps of <hi>Henry</hi> the Seventh, by my Lord <hi>Bacon,</hi> with <hi>Godwins</hi> Annales 1676</item>
+               <item>72 Maps of Man. by <hi>Nat. Wanley</hi> — 1678</item>
+               <item>73 Maps of the <hi>Turks,</hi> by <hi>Richard Knowles,</hi> laſt Edition 1638</item>
+               <item>74 Maps of the <hi>Turkiſh</hi> Empire, by <hi>Paul Ricaut</hi> — 1680</item>
+               <item>75 Maps of the Acts of the Apoſtles, by <hi>S. Cradock</hi> 1672</item>
+               <item>76 Maps of the Life and Death of Biſhop <hi>Laud,</hi> by <hi>P. Heylin</hi> — 1671</item>
+               <item>77 Maps of the Lives of the Primitive Fathers, by <hi>W. Cave</hi> 1677</item>
+               <item>78 Maps of the Antiquities of Great <hi>Britain</hi> and <hi>Ireland,</hi> by Sir <hi>P. Lyceſter</hi> 1673</item>
+               <item>79 Maps of <hi>Mary</hi> Q. of <hi>Scotland,</hi> and K. <hi>James,</hi> by <hi>Sanderſon</hi> — 1656</item>
+               <item>80 Maps of <hi>Virginia, New England,</hi> and the Summer <hi>Iſlands,</hi> by <hi>J. Smith</hi> 1624</item>
+               <item>81 Maps of King <hi>Charles</hi> the Firſt, by <hi>Haman L'Eſtrange</hi> — 1655</item>
+               <item>82 Maps of the City of <hi>London,</hi> by <hi>James Howell</hi> 1657</item>
+               <item>83 Maps of the Life and Reign of King <hi>James</hi> the Firſt, by <hi>Arthur Wilſon</hi> 1653</item>
+               <item>84 Maps of the Wonderful things of Nature, by <hi>John Stonus</hi> — 1657</item>
+               <item>85 Maps of the pretended Saints, by <hi>Henry Foulis</hi> 1674</item>
+               <item>86 Maps of the World, by Sir <hi>Walter Raleigh,</hi> with his Life and Tryal —</item>
+               <item>87 Maps of the Antiquities of <hi>Warwickſhire,</hi> by <hi>W. Dugdale</hi> 1656</item>
+               <item>88 Maps of Romiſh Treaſons, by <hi>Henry Foulis</hi> — 1681</item>
+               <item>89 Hiſtorical Collections, by <hi>John Ruſhworth,</hi> with the Earl of <hi>Straffords</hi> Tryal, 4 Vol. 1659</item>
+               <item>90 <hi>Hammonds</hi> Annotations on the New Teſtament — 1681</item>
+               <item>91 Biſhop <hi>Halls</hi> Paraphraſe on the Bible 1633</item>
+               <item>92 <hi>Hilderſams</hi> Lectures on the 51 Pſalm — 1642</item>
+               <item>93 <hi>Hakewells</hi> Apology for the Providence of God 1635</item>
+               <item>94 <hi>Hugo Grotius</hi> Rights of War and Peace — 1682</item>
+               <item>95 <hi>Hales</hi> Origination of Mankind 1677</item>
+               <item>96 <hi>Hobbs</hi> Leviathan — 1651</item>
+               <item>97 <hi>Heylin</hi> on the Creed 1673</item>
+               <item>98 <hi>Hammonds</hi> Sermons — 1675</item>
+               <item>99 <hi>Hookers</hi> Eccleſiaſtical Polity 1662</item>
+               <item>100 <hi>Harris</hi> Works — 1654</item>
+               <item>101 <hi>Harris</hi> Houſe of Mourning 1660</item>
+               <item>102 Biſhop <hi>Jewells</hi> Works — 1609</item>
+               <item>103 <hi>Ingelos Bentivolio</hi> and <hi>Urania,</hi> Large Paper 1673</item>
+               <item>104 <hi>Jenkins</hi> Commentary on <hi>Jude</hi> — 1656</item>
+               <item>105 Jeſuits Morals 1670</item>
+               <item>106 <hi>Kerſeys</hi> Elements of <hi>Algebra</hi> — 1673</item>
+               <item>107 <hi>L'Eſtrange's (Hamon)</hi> Alliance of the Divine Offices 1659</item>
+               <item>108 Biſhop <hi>Lakes</hi> Sermons — 1629</item>
+               <item>109 <hi>Leighs</hi> Body of Divinity, ſecond Edition 1662</item>
+               <item>110 <hi>Leighs</hi> Body of Religion and Learning — 1663</item>
+               <pb facs="tcp:29961:4" rendition="simple:additions"/>
+               <item>111 <hi>Leighs</hi> Body Annotations on the New Teſtament 1650</item>
+               <item>112 <hi>Leighs</hi> Body Annotations on the Poetical Books — 1657</item>
+               <item>113 <hi>Leighs</hi> Body <hi>Critica Sacra,</hi> with the Supplement 1662</item>
+               <item>114 <hi>Lees</hi> Temple of <hi>Solomon</hi> — 1659</item>
+               <item>115 <hi>Lightfoots</hi> Harmony on the New Teſtament 1655</item>
+               <item>116 Archbiſhop <hi>Lauds</hi> Conference with <hi>Fiſher</hi> the <hi>Jeſuit</hi> — 1673</item>
+               <item>117 <hi>Montaigne</hi>'s Eſſays 1632</item>
+               <item>118 <hi>Machiavels</hi> Works — 1675</item>
+               <item>119 <hi>Moors</hi> Philoſophical Writings 1662</item>
+               <item>120 <hi>Moſſoms</hi> Preachers Tripartite — 1657</item>
+               <item>121 <hi>Minſhews</hi> Dictionary of Eleven Languages 1617</item>
+               <item>122 <hi>Newmans</hi> Concordance to the whole Bible — 1658</item>
+               <item>123 <hi>Newcaſtles</hi> Philoſophical Letters 1664</item>
+               <item>124 <hi>Owens</hi> Expoſition on the <hi>Hebrews,</hi> 3 Volumes Compleat — 1668</item>
+               <item>125 <hi>Plutarchs</hi> Morals, laſt and beſt Edition 1657</item>
+               <item>126 Biſhop <hi>Peirſons</hi> Expoſition on the Creed — 1676</item>
+               <item>127 <hi>Pembles</hi> Works 1659</item>
+               <item>128 <hi>Partheniſſa,</hi> a Romance, written by the Earl of <hi>Orrery</hi> — 1676</item>
+               <item>129 Biſhop <hi>Renolds</hi> Works — 1679</item>
+               <item>130 <hi>Roberts</hi> Myſtery and Marrow of the Bible 1657</item>
+               <item>131 <hi>Stows</hi> Survey of <hi>London</hi> — 1633</item>
+               <item>132 <hi>Stillingfleets</hi> Rational Account of the Proteſtant Religion 1681</item>
+               <item>133 <hi>Stillingfleets</hi> Sermons — 1673</item>
+               <item>134 <hi>Sedgwick</hi> on the Covenant 1661</item>
+               <item>135 <hi>Spencers</hi> Store-houſe of Similies — 1658</item>
+               <item>136 Saint <hi>Auguſtine</hi> of the City of God 1629</item>
+               <item>137 <hi>Spencers</hi> Works of Poetry — 1678</item>
+               <item>138 <hi>Shepards</hi> Parable of the Ten Virgins 1660</item>
+               <item>139 <hi>Sibbs</hi> Saints Cordials —</item>
+               <item>140 <hi>Sandys</hi> Tranſlation of <hi>Ovids</hi> Metamorphoſis, with Cuts 1640</item>
+               <item>141 <hi>Scriveners</hi> Courſe of Divinity — 1674</item>
+               <item>142 <hi>Smiths</hi> Chriſtian Religions Appeal 1675</item>
+               <item>143 <hi>Smiths</hi> Expoſition on the Creed — 1632</item>
+               <item>144 <hi>Sandys</hi> Travels 1673</item>
+               <item>145 <hi>Symſons Engliſh, Latin,</hi> and <hi>Greek</hi> Lexicon — 1658</item>
+               <item>146 Biſhops <hi>Taylors</hi> Life of Chriſt, with Dr. <hi>Caves</hi> Lives of the Apoſtles 1678</item>
+               <item>147 Biſhops Caſes of Conſcience — 1676</item>
+               <item>148 Biſhops Collection of Polemical Diſcourſes 1674</item>
+               <item>149 Biſhops Sermons — 1678</item>
+               <item>150 Treaſury of Antient and Modern Times, 2 Volumes 1613</item>
+               <item>151 <hi>Tindall, Frith,</hi> and <hi>Barnes</hi> Works — 1573</item>
+               <item>152 <hi>Taylors (Tho.)</hi> Works, in three Volumes 1660</item>
+               <item>153 Biſhop <hi>Uſhers</hi> Body of Divinity, laſt Edition — 1678</item>
+               <item>154 Biſhop Annals of the World 1658</item>
+               <item>155 View of the Soul, in ſeveral Tracts — 1682</item>
+               <item>156 Works of the Learned and Pious Author of the Whole Duty of Man 1684</item>
+               <item>157 Works of King <hi>Charles</hi> the firſt, 2 Volumes — 1667</item>
+               <item>158 <hi>Willoughby</hi> of Birds 167<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>159 <hi>Wilſons</hi> Chriſtian Dictionary — 1678</item>
+               <item>160 Works of <hi>Dubartus,</hi> Engliſhed by <hi>Joſhua Sylveſter</hi> 1641</item>
+               <item>161 Works of the High and Mighty King <hi>James</hi> — 1616</item>
+               <item>162 <hi>Wither;</hi> Collection of Embiems, Antient and Modern 1635</item>
+               <item>163 <hi>Wards</hi> Commentary on <hi>Matthew</hi> — 1640</item>
+               <item>164 <hi>Willetts</hi> Commentary on <hi>Geneſis</hi> and <hi>Exodus</hi> 1632</item>
+               <item>165 <hi>Webſters</hi> diſplay of Witchcraft 1674</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
